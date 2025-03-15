@@ -1,0 +1,86 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.vsidx
+*.vsconfig
+*.log
+.DS_Store
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Game/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe11.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe8.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe9.log
+Game/Logs/AssetImportWorker0.log
+Game/Logs/AssetImportWorker1.log
+Game/Logs/shadercompiler-AssetImportWorker0.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe11.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe8.log
+Game/Logs/shadercompiler-UnityShaderCompiler.exe9.log
+*.log
+Game/UserSettings/Layouts/default-2021.dwlt

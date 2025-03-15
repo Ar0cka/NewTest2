@@ -1,0 +1,18 @@
+{
+    "name": "Build",
+    "rootNamespace": "",
+    "references": [
+        "GUID:55e560aecbf546a3add5e43e709598bc",
+        "GUID:364929a369c68ee46bd27a5fe0dad865",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
